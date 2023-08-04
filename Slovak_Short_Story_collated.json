@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "5d733951-5ab1-4461-9db0-400115f5056c",
+            "collectionId": "Slovak",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Short_Story/5d733951-5ab1-4461-9db0-400115f5056c/5d733951-5ab1-4461-9db0-400115f5056c_sk_Female.mp4"
+        },
+        {
+            "id": "195902a2-e133-4403-b817-85423ac15093",
+            "collectionId": "Slovak",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Short_Story/195902a2-e133-4403-b817-85423ac15093/195902a2-e133-4403-b817-85423ac15093_sk_Female.mp4"
+        },
+        {
+            "id": "b3760e54-9006-4543-880c-f0310b815b1f",
+            "collectionId": "Slovak",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Short_Story/b3760e54-9006-4543-880c-f0310b815b1f/b3760e54-9006-4543-880c-f0310b815b1f_sk_Female.mp4"
+        }
+    ]
+}
